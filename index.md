@@ -1,4 +1,4 @@
-# Sanja's User Page
+# Sanjana's User Page
 
 Welcome to my GitHub profile! I'm a passionate programmer and developer exploring the exciting world of software engineering.
 
